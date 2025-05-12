@@ -44,12 +44,12 @@ I’m open to collaborating on:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strate-Milambo&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strate-Milambo&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Strategiemilambopaul&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strategiemilambopaul&theme=radical" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strate-Milambo&layout=compact&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strategiemilambopaul&layout=compact&theme=radical" width="50%"/>
 </p>
 
 ---
